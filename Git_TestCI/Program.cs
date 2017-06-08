@@ -19,6 +19,7 @@ namespace Git_TestCI
             Console.WriteLine("第七次合并测试开始啦");
             Console.WriteLine("第八次合并测试开始啦");
             Console.WriteLine("第⑨次合并测试开始啦");
+            Console.WriteLine("第十次合并测试开始啦");
             Console.WriteLine("我们是来自Git_TestCI");
         }
     }
