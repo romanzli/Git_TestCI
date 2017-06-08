@@ -15,6 +15,7 @@ namespace Git_TestCI
             Console.WriteLine("第三次测试开始啦");
             Console.WriteLine("第四次测试开始啦");
             Console.WriteLine("第五次测试开始啦");
+            Console.WriteLine("第六次测试开始啦");
             Console.WriteLine("我们是来自Git_TestCI");
         }
     }
